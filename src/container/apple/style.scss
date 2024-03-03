@@ -176,24 +176,6 @@ $productImage: (
 	}
 }
 
-// .product--iphone-pro {
-// 	background-image: url(/img/iphone_pro.png);
-// }
-
-// .product--iphone {
-// 	background-image: url(/img/iphone.png);
-// }
-
-// .product--iwatch {
-// 	background-image: url(/img/watch.png);
-// }
-
-// .footer__block {
-// 	display: flex;
-
-// 	padding: 0 50px
-// }
-
 .footer {
 	@extend .section;
 	background-color: s.color('background');
